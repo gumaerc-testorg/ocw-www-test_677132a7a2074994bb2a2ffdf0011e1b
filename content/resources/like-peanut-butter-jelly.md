@@ -1,6 +1,6 @@
 ---
 description: Peanut Butter and Jelly
-file: /media/ocw-www-test/5d15dc302af04415bb8960e9648bb4f2_peanut-butter-jelly.jpg
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/ocw-www-test/5d15dc302af04415bb8960e9648bb4f2_peanut-butter-jelly.jpg
 filetype: Image
 metadata:
   caption: test caption
